@@ -1,0 +1,4 @@
+htop
+kitty
+git
+cmatrix
